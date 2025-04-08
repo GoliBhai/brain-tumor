@@ -1,0 +1,101 @@
+Age,Gender,Headache,Nausea,Vomiting,Vision Problems,Seizures,Balance Issues,Cognitive Decline,Tumor Size (cm),Tumor Location,Genetic History,Brain Tumor
+44,Female,0,0,1,0,0,0,1,0.41,Brain Stem,0,0
+53,Male,1,0,1,0,1,1,0,3.01,Frontal Lobe,1,1
+41,Female,0,1,1,1,0,1,1,3.07,Cerebellum,0,1
+32,Male,1,0,0,1,0,1,1,4.9,Parietal Lobe,1,1
+44,Male,0,1,0,1,1,0,0,2.3,Temporal Lobe,0,1
+42,Male,0,1,0,0,0,1,1,0.24,Occipital Lobe,1,1
+48,Female,1,0,1,0,1,1,1,3.33,Occipital Lobe,1,1
+14,Female,0,0,1,0,0,0,0,2.78,Occipital Lobe,0,0
+34,Male,1,0,1,1,0,0,0,4.43,Cerebellum,0,1
+34,Male,1,0,0,1,0,0,0,0.44,Brain Stem,1,1
+11,Male,0,1,0,0,1,0,0,2.59,Occipital Lobe,0,0
+12,Male,1,0,1,0,0,0,0,2.59,Parietal Lobe,0,0
+10,Male,1,0,1,1,0,1,1,3.55,Occipital Lobe,1,1
+39,Male,0,0,0,0,1,1,0,1.27,Cerebellum,0,0
+57,Female,0,1,1,1,0,0,0,4.71,Occipital Lobe,1,1
+36,Male,1,0,0,0,0,1,1,4.88,Cerebellum,0,1
+41,Male,1,0,1,0,1,0,0,1.87,Frontal Lobe,0,0
+80,Male,0,1,0,0,0,1,1,0.8,Brain Stem,0,0
+40,Male,0,1,0,0,0,1,1,0.38,Parietal Lobe,1,1
+78,Male,1,1,1,0,1,0,0,2.28,Cerebellum,1,1
+34,Female,1,1,0,0,1,1,0,1.4,Cerebellum,1,1
+12,Male,1,0,0,1,0,1,0,4.43,Temporal Lobe,0,1
+38,Male,1,1,1,0,1,0,1,4.19,Parietal Lobe,1,1
+26,Female,1,0,1,0,0,1,0,0.62,Cerebellum,0,0
+55,Male,0,0,0,1,1,1,1,0.75,Frontal Lobe,1,1
+31,Female,1,1,0,1,0,1,1,1.68,Parietal Lobe,1,1
+38,Male,0,0,0,1,1,1,1,0.99,Parietal Lobe,1,1
+27,Female,1,0,1,1,0,0,1,1.59,Occipital Lobe,1,1
+17,Female,0,0,1,1,1,1,0,0.25,Occipital Lobe,1,1
+55,Female,0,1,0,1,0,0,1,2.1,Occipital Lobe,1,1
+73,Female,1,1,1,0,1,0,0,0.64,Temporal Lobe,1,1
+66,Male,0,0,0,1,1,0,0,4.47,Temporal Lobe,1,1
+34,Female,0,0,0,0,1,1,1,3.82,Cerebellum,0,1
+80,Male,0,0,0,0,0,0,0,1.2,Brain Stem,0,0
+22,Female,1,0,1,1,0,1,1,3.82,Temporal Lobe,0,1
+65,Female,0,0,1,1,1,0,1,2.79,Temporal Lobe,0,1
+70,Female,0,0,1,0,0,0,1,3.02,Occipital Lobe,0,0
+40,Female,0,1,0,1,0,0,1,1.29,Frontal Lobe,0,0
+29,Male,0,1,0,1,1,1,0,2.4,Temporal Lobe,1,1
+11,Male,1,0,0,1,0,0,1,1.93,Brain Stem,1,1
+63,Female,1,0,1,0,0,1,1,1.21,Parietal Lobe,1,1
+38,Male,0,0,1,1,1,1,1,0.49,Brain Stem,0,0
+37,Male,0,0,0,0,0,0,0,0.12,Occipital Lobe,1,1
+34,Female,1,0,0,0,1,1,0,4.8,Parietal Lobe,0,1
+80,Male,1,1,0,0,1,0,0,2.12,Temporal Lobe,1,1
+76,Female,0,0,1,0,0,1,0,2.74,Parietal Lobe,1,1
+54,Female,0,1,1,0,1,1,0,0.56,Temporal Lobe,0,0
+75,Female,0,1,0,0,0,1,1,2.66,Temporal Lobe,0,1
+53,Male,1,1,0,1,1,0,0,0.08,Temporal Lobe,1,1
+45,Male,0,0,1,0,0,1,1,0.16,Brain Stem,1,1
+29,Female,0,1,0,0,1,1,1,1.8,Temporal Lobe,0,0
+23,Male,1,1,1,0,0,0,0,1.55,Parietal Lobe,0,0
+79,Female,0,0,0,1,1,0,0,0.59,Temporal Lobe,0,0
+17,Male,0,1,0,1,1,1,0,2.98,Parietal Lobe,0,1
+45,Male,1,1,1,0,0,0,0,1.52,Brain Stem,0,0
+12,Female,1,0,1,0,0,0,0,4.04,Occipital Lobe,1,1
+58,Male,1,1,0,1,0,0,1,2.27,Cerebellum,0,1
+64,Female,0,0,0,1,1,1,0,3.33,Frontal Lobe,0,1
+37,Male,1,1,1,0,1,0,1,0.99,Temporal Lobe,1,1
+15,Female,1,1,0,0,0,0,1,3.25,Occipital Lobe,0,1
+73,Male,0,1,0,1,0,1,1,2.83,Cerebellum,1,1
+54,Male,1,1,0,0,1,1,0,3.51,Brain Stem,0,1
+35,Male,1,0,1,0,1,0,1,3.28,Frontal Lobe,0,1
+57,Male,0,1,0,1,1,1,0,4.0,Brain Stem,0,1
+28,Male,1,1,0,1,0,1,1,3.75,Brain Stem,0,1
+13,Male,1,0,1,1,0,0,1,2.7,Parietal Lobe,0,1
+11,Female,0,0,0,0,1,1,0,3.22,Occipital Lobe,0,0
+50,Female,0,0,1,0,0,1,0,0.66,Temporal Lobe,1,1
+32,Male,1,1,1,1,1,0,1,0.74,Frontal Lobe,1,1
+26,Male,0,0,0,0,1,0,0,0.34,Cerebellum,1,1
+71,Male,1,0,0,0,0,1,1,2.02,Temporal Lobe,0,1
+64,Male,1,1,0,1,0,0,0,1.12,Brain Stem,1,1
+63,Male,0,0,1,0,0,0,0,2.0,Temporal Lobe,0,0
+25,Female,0,1,0,0,1,0,0,3.42,Brain Stem,1,1
+73,Female,0,1,1,1,0,1,0,2.2,Parietal Lobe,0,1
+80,Female,0,1,0,1,1,0,1,0.71,Cerebellum,1,1
+52,Female,0,1,0,1,0,0,0,3.4,Brain Stem,0,0
+77,Female,1,1,0,1,1,0,1,1.72,Brain Stem,1,1
+19,Female,0,0,1,1,1,1,1,3.95,Parietal Lobe,0,1
+78,Male,0,1,1,0,0,0,0,2.93,Cerebellum,1,1
+52,Male,0,1,1,1,0,0,0,1.03,Occipital Lobe,0,0
+43,Male,0,1,0,1,1,1,0,4.7,Brain Stem,1,1
+33,Male,1,0,1,1,0,1,1,1.72,Occipital Lobe,0,0
+51,Male,0,1,0,1,0,1,1,0.87,Brain Stem,1,1
+30,Female,0,0,0,0,0,1,0,4.69,Cerebellum,0,0
+47,Male,1,1,1,1,0,1,1,4.86,Frontal Lobe,1,1
+51,Male,0,0,1,1,0,0,0,1.88,Parietal Lobe,0,0
+49,Female,1,0,0,0,0,0,1,3.91,Occipital Lobe,0,0
+23,Female,0,0,0,1,0,0,1,0.88,Frontal Lobe,0,0
+61,Male,0,1,1,1,0,1,1,4.0,Brain Stem,1,1
+31,Male,1,1,1,1,1,0,0,4.17,Temporal Lobe,1,1
+33,Female,1,1,1,1,1,0,1,1.66,Cerebellum,0,0
+60,Male,1,1,0,0,0,0,0,3.41,Occipital Lobe,0,0
+18,Female,0,0,1,1,0,0,1,1.46,Frontal Lobe,0,0
+72,Male,0,1,1,0,0,0,0,3.48,Brain Stem,1,1
+52,Female,0,0,1,0,0,1,1,0.85,Frontal Lobe,0,0
+48,Male,1,0,1,1,0,1,1,0.71,Cerebellum,0,0
+67,Female,0,0,0,1,0,1,0,0.11,Frontal Lobe,0,0
+71,Female,0,0,0,1,0,1,1,0.56,Brain Stem,1,1
+38,Female,1,1,1,0,0,0,1,2.79,Parietal Lobe,0,1
